@@ -22,11 +22,11 @@
   </h1>
 </div>
 
-<div>
+<!-- <div>
   <ul> About me:
     <li></li>
   </ul>
-</div>
+</div> -->
 
 
 <!--
