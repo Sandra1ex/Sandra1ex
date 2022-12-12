@@ -15,6 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=Sandra1ex&style=flat-square&color=blue" alt=""/>
 </div>
 
+<hr />
 
 ### Контакты:
 
