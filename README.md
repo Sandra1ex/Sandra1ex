@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="480" height="270">
 </div>
 
 
@@ -22,11 +22,20 @@
   </h1>
 </div>
 
-<!-- <div>
-  <ul> About me:
-    <li></li>
-  </ul>
-</div> -->
+### Контакты:
+
+<a href='https://www.linkedin.com/in/sandra1ex/'>
+  <img align="left" alt="juljuliks | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />
+</a>
+
+<a href='https://t.me/darth_sandralex'>
+  <img align="left" alt="juljuliks | Telegram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" />
+</a>
+<a name="gmail" href="mailto:lubnina.alexandra@gmail.com"> 
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
+</a>
+
+<br/>
 
 <div>
   <h1>Мой стек:</h1>
@@ -42,7 +51,14 @@
   <img width='50px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' alt='html'/>
 </div>
 
+<br/>
 
+
+
+- **Фронтенд**: JS, TypeScript, React, Hooks API, Redux (Thunk, Toolkit), HTML5, CSS3, Sass
+- **Бекенд**: Node.js, Express, CORS, WebSockets
+- **Базы данных**: PostgreSQL, Sequelize ORM
+- **A также**: Jest, Docker, REST
 
 <!--
 **Sandra1ex/Sandra1ex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
