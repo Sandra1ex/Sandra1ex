@@ -50,7 +50,7 @@
 
 
 
-- **Фронтенд**: JS, TypeScript, React, Hooks API, Redux (Thunk, Toolkit), HTML5, CSS3, Sass
+- **Фронтенд**: JS, TypeScript, React, Hooks API, Redux (Thunk, Toolkit), HTML5, CSS3
 - **Бекенд**: Node.js, Express, CORS, WebSockets
 - **Базы данных**: PostgreSQL, Sequelize ORM
 - **A также**: Jest, Docker, REST
